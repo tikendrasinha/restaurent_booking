@@ -128,7 +128,7 @@ class RestaurentScreen extends StatelessWidget {
           Positioned(
             bottom: 0,
             child: Container(
-              padding: const EdgeInsets.only(left: 20, right: 20, top: 25),
+              padding: const EdgeInsets.only(left: 10, right: 10, top: 20),
               width: MediaQuery.of(context).size.width,
               height: MediaQuery.of(context).size.height * 0.4,
               decoration: const BoxDecoration(
